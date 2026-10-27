@@ -1,0 +1,2 @@
+# Smart-Optimization-Assistant-using-Dynamic-Programming
+Develop a Smart Optimization Assistant using Dynamic Programming to solve real-world optimization problems involving sequence analysis, resource allocation, and computation optimization. The system should implement Longest Common Subsequence (LCS), 0/1 Knapsack, and Matrix Chain Multiplication algorithms to generate optimal solutions, visualize 
